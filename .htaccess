@@ -1,6 +1,6 @@
 RewriteEngine On
 
-RewriteBase /ss15/
+RewriteBase /MVCDEMO/
 
 # Bỏ qua xử lý các file ảnh, JS, CSS – cho load trực tiếp
 RewriteCond %{REQUEST_URI} \.(jpg|jpeg|png|gif|webp|svg|css|js)$ [NC]

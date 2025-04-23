@@ -1,9 +1,9 @@
 <?php
 
 return array(
-    'base'=> 'ss15/',
-    'baseURL'=> 'http://localhost/ss15/',
-    'assets'=> 'ss15/assets',
+    'base'=> '/MVCdemo/MVCdemo',
+    'baseURL'=> 'http://localhost/MVCdemo/',
+    'assets'=> '/MVCdemo/MVCdemo',
     'db'=> array(
         'host'=> 'localhost',
         'name'=> 'project',
